@@ -1,3 +1,5 @@
 # conflict
 
 Hello
+
+new content
