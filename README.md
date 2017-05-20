@@ -1,3 +1,3 @@
 # conflict
 
-my text
+Hello my text
