@@ -1,1 +1,3 @@
 # conflict
+
+my text
